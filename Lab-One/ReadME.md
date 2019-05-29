@@ -5,5 +5,5 @@
   4. （可选）尝试阅读FISCO BCOS的技术文档，并加深认识
   技术文档地址： https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/index.html
 
-### 计划15周 周三前个人完成脚本报告的制作，随后进入PPT脚本讲解的制作。
+### 计划15周 周二晚 前个人完成脚本报告的制作，随后进入PPT脚本讲解的制作。
   PPT的具体制作到时候会进行详细安排
