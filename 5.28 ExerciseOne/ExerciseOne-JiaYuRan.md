@@ -23,10 +23,10 @@
 ![](https://github.com/marknash666/FiscoBcos-ExerciseOne/blob/master/image-ExerciseOne/block1.png?raw=true)
 
 ## 7. 调用智能合约
-### 7.1 调用智能合约
+### 7.1 调用get
 ![](https://github.com/marknash666/FiscoBcos-ExerciseOne/blob/master/image-ExerciseOne/5.png?raw=true)
 调用get接口获取name变量 此处的合约地址是deploy指令返回的地址
-### 7.2 调用智能合约
+### 7.2 调用set
 ![](https://github.com/marknash666/FiscoBcos-ExerciseOne/blob/master/image-ExerciseOne/6.png?raw=true)
 调用set设置name变量 此处的合约地址是deploy指令返回的地址
 
