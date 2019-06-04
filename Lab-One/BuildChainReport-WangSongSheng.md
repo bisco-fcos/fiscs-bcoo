@@ -29,3 +29,5 @@ main()
 生成设置文件
 
 生成设置文件(generate_config_ini)，设置监听的IP，ID等信息。之后设置共识设定，(generate_group_genesis)，设定共识算法类别，存储类型，gas limit信息。之后生成群组设置(generate_group_ini())，设置ttl，最小块生成时间，pool limit。之后生成节点的脚本(generate_node_scripts())。
+
+Print_result()直接打印安装结果，其中包括端口，服务器IP，状态类型，输出目录，CA KEY路径等等。
