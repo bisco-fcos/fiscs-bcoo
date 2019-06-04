@@ -2,8 +2,6 @@
 
 Help()方法显示帮助信息
 
-![image-20190604100337450](/Users/michael/Library/Application Support/typora-user-images/image-20190604100337450.png)
-
 主体程序中：
 
 先运行check_env检查环境，然后用parse_params获取参数，之后执行main，最后print_result打印结果。
