@@ -108,7 +108,7 @@ The inner Loop would do the following:
 2. checks the length and the first two number of privateKey to ensure its legality, otherwise the whole node directory would be deleted.
 3. does the similar privateKey checking when the GuoMi option is enabled. The differences are that conf_path is replaced by gm_conf_path and the privateKey of GuoMi should start with "00".
 
-We now come back to the outer loop, this part of code does different operation to the configuration files in accordance with GuoMi or non-GuoMi, set the node_groups if we used -f option and set the nodeid_list if we used -l option.
+We now come back to the outer loop, this part of code does different operation to the configuration files in accordance with GuoMi or non-GuoMi, set the node_groups if we used **-f** option and set the nodeid_list if we used **-l** option.
 
 ### Part Four - print_result()
 ![](https://github.com/marknash666/FiscoBcos-ExerciseOne/blob/master/image-ExerciseOne/print_result.png?raw=true)
