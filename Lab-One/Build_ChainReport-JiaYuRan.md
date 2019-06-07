@@ -1,7 +1,7 @@
 # Lab-One Illustration of Build_Chain.sh 
 
 ## Function Classification
-There are 38 functions in total. Mainly, we could distribute them into 5 classes.
+There are 38 functions in total. Mainly, we could distribute them into 4 classes.
 ### 1. Information Display 
 1. help(): Prints the help information 
 2. LOG_WARN(): Prints the warnings
